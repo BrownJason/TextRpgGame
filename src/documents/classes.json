@@ -1,0 +1,49 @@
+[{
+    "name": "Warrior",
+    "stats": [
+        {
+            "name":"Strength",
+            "value": 10
+        }, 
+        {
+            "name":"Intelligence",
+            "value": 3
+        },{
+            "name":"Dexterity",
+            "value": 4
+        },{
+            "name":"Luck",
+            "value": 2
+        },
+        {"name":"Health",
+        "value": 25}
+    ]
+    ,
+    "abilities" : [
+        "Stab", "Thrust", "Cleave"
+    ]
+}, {
+    "name": "Mage",
+    "stats": [
+        {
+            "name":"Strength",
+            "value": 3
+        }, 
+        {
+            "name":"Intelligence",
+            "value": 10
+        },{
+            "name":"Dexterity",
+            "value": 4
+        },{
+            "name":"Luck",
+            "value": 2
+        },
+        {"name":"Health",
+        "value": 10}
+    ]
+    ,
+    "abilities" : [
+        "Frostbolt", "Fireball", "Nova"
+    ]
+}]
